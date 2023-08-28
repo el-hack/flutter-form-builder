@@ -1,0 +1,27 @@
+{
+    "data":[
+        {
+            "type":"select",
+            "label":"select label 1",
+            "selectItem":[{
+                "value": "box",
+                "label": "Box"
+              }],
+            "isRequired":true
+        }
+        ,{
+            "type":"date",
+            "label":"date label 2",
+            "isRequired":false,
+            "selectItem":null
+
+        },{
+            "type":"input",
+            "label":"Iput label",
+            "isRequired":true,
+            "selectItem":null
+
+
+        }
+    ]
+}
